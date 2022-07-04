@@ -1,2 +1,7 @@
 Ace
 Ventura
+Thrid times the charm >> t12f.txt
+echo Thrid time's the charm >> t12f.txt
+echo Thrid times the charm
+Thrid time\s the charm >> t12f.txt
+echo Thrid time\s the charm
